@@ -1,0 +1,45 @@
+{
+  "id": "MC01W02",
+  "level": 2,
+  "level_name": {
+    "local": "Quartier",
+    "en": "Ward"
+  },
+  "name": {
+    "local": "Fontvieille",
+    "en": "Fontvieille",
+    "slug": "fontvieille-mc01w02"
+  },
+  "code": {
+    "id": "MC01W02",
+    "iso": null
+  },
+  "parent": {
+    "id": "MC01",
+    "level": 1,
+    "name": {
+      "local": "Monaco-Ville",
+      "en": "Monaco-Ville",
+      "slug": "monaco-ville-mc01"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MC01",
+      "level": 1,
+      "name": {
+        "local": "Monaco-Ville",
+        "en": "Monaco-Ville",
+        "slug": "monaco-ville-mc01"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "43.727",
+    "lon": "7.413"
+  },
+  "metadata": {},
+  "source": {}
+}

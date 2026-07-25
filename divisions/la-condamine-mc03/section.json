@@ -1,0 +1,33 @@
+{
+  "id": "MC03",
+  "level": 1,
+  "level_name": {
+    "local": "Section",
+    "en": "Section"
+  },
+  "name": {
+    "local": "La Condamine",
+    "en": "La Condamine",
+    "slug": "la-condamine-mc03"
+  },
+  "code": {
+    "id": "MC03",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "ward": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "43.734",
+    "lon": "7.416"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/mc/sections/la-condamine-mc03/",
+    "api": "https://openadmindata.org/api/mc/"
+  }
+}

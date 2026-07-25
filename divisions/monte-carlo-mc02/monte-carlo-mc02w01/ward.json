@@ -1,0 +1,45 @@
+{
+  "id": "MC02W01",
+  "level": 2,
+  "level_name": {
+    "local": "Quartier",
+    "en": "Ward"
+  },
+  "name": {
+    "local": "Monte-Carlo",
+    "en": "Monte Carlo",
+    "slug": "monte-carlo-mc02w01"
+  },
+  "code": {
+    "id": "MC02W01",
+    "iso": null
+  },
+  "parent": {
+    "id": "MC02",
+    "level": 1,
+    "name": {
+      "local": "Monte-Carlo",
+      "en": "Monte Carlo",
+      "slug": "monte-carlo-mc02"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MC02",
+      "level": 1,
+      "name": {
+        "local": "Monte-Carlo",
+        "en": "Monte Carlo",
+        "slug": "monte-carlo-mc02"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "43.74",
+    "lon": "7.427"
+  },
+  "metadata": {},
+  "source": {}
+}

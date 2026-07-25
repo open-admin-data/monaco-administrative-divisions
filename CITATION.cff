@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite as below"
+type: dataset
+authors:
+  - name: "jakkrapongt"
+title: "Monaco Administrative Divisions Dataset"
+version: "2026.07"
+date-released: "2026-07-25"
+url: "https://github.com/open-admin-data/monaco-administrative-divisions"
+repository-code: "https://github.com/open-admin-data/monaco-administrative-divisions"
+license: CC-BY-4.0
+keywords:
+  - monaco
+  - administrative-divisions
+  - geography
+  - open-data
+  - dataset
+  - multilingual
+abstract: >
+  Open dataset of Monaco's administrative hierarchy:
+  3 sections, 10 wards.
+  Bilingual with coordinates and postal codes where available.

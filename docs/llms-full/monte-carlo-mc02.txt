@@ -1,0 +1,24 @@
+# Monte Carlo — Monaco Administrative Divisions
+
+> 3 wards
+> Code: MC02
+> Coordinates: 43.743, 7.432
+> Last updated: 2026-07-25. License: CC-BY-4.0.
+
+## Wards
+
+### La Rousse/Saint Roman (La Rousse)
+
+Code: MC02W03, Coordinates: 43.745, 7.433
+
+
+### Larvotto
+
+Code: MC02W02, Coordinates: 43.744, 7.436
+
+
+### Monte-Carlo (Monte Carlo)
+
+Code: MC02W01, Coordinates: 43.74, 7.427
+
+

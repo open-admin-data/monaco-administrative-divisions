@@ -1,0 +1,101 @@
+[
+  {
+    "id": "MC01",
+    "level": 1,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Monaco-Ville",
+      "en": "Monaco-Ville",
+      "slug": "monaco-ville-mc01"
+    },
+    "code": {
+      "id": "MC01",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "ward": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "43.729",
+      "lon": "7.417"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/mc/sections/monaco-ville-mc01/",
+      "api": "https://openadmindata.org/api/mc/"
+    }
+  },
+  {
+    "id": "MC02",
+    "level": 1,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Monte-Carlo",
+      "en": "Monte Carlo",
+      "slug": "monte-carlo-mc02"
+    },
+    "code": {
+      "id": "MC02",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "ward": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "43.743",
+      "lon": "7.432"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/mc/sections/monte-carlo-mc02/",
+      "api": "https://openadmindata.org/api/mc/"
+    }
+  },
+  {
+    "id": "MC03",
+    "level": 1,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "La Condamine",
+      "en": "La Condamine",
+      "slug": "la-condamine-mc03"
+    },
+    "code": {
+      "id": "MC03",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "ward": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "43.734",
+      "lon": "7.416"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/mc/sections/la-condamine-mc03/",
+      "api": "https://openadmindata.org/api/mc/"
+    }
+  }
+]

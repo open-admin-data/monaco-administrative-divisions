@@ -1,0 +1,167 @@
+{
+  "_attribution": "Data from Open Admin Data (https://openadmindata.org/mc/) — CC-BY-4.0. Please cite: https://github.com/open-admin-data/monaco-administrative-divisions",
+  "data": [
+    {
+      "id": "MC01",
+      "name": {
+        "local": "Monaco-Ville",
+        "en": "Monaco-Ville",
+        "slug": "monaco-ville-mc01"
+      },
+      "code": {
+        "id": "MC01",
+        "iso": null
+      },
+      "ward": [
+        {
+          "id": "MC01W01",
+          "name": {
+            "local": "Monaco-Ville",
+            "en": "Monaco-Ville",
+            "slug": "monaco-ville-mc01w01"
+          },
+          "code": {
+            "id": "MC01W01",
+            "iso": null
+          }
+        },
+        {
+          "id": "MC01W02",
+          "name": {
+            "local": "Fontvieille",
+            "en": "Fontvieille",
+            "slug": "fontvieille-mc01w02"
+          },
+          "code": {
+            "id": "MC01W02",
+            "iso": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "MC02",
+      "name": {
+        "local": "Monte-Carlo",
+        "en": "Monte Carlo",
+        "slug": "monte-carlo-mc02"
+      },
+      "code": {
+        "id": "MC02",
+        "iso": null
+      },
+      "ward": [
+        {
+          "id": "MC02W01",
+          "name": {
+            "local": "Monte-Carlo",
+            "en": "Monte Carlo",
+            "slug": "monte-carlo-mc02w01"
+          },
+          "code": {
+            "id": "MC02W01",
+            "iso": null
+          }
+        },
+        {
+          "id": "MC02W02",
+          "name": {
+            "local": "Larvotto",
+            "en": "Larvotto",
+            "slug": "larvotto-mc02w02"
+          },
+          "code": {
+            "id": "MC02W02",
+            "iso": null
+          }
+        },
+        {
+          "id": "MC02W03",
+          "name": {
+            "local": "La Rousse/Saint Roman",
+            "en": "La Rousse",
+            "slug": "la-rousse-mc02w03"
+          },
+          "code": {
+            "id": "MC02W03",
+            "iso": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "MC03",
+      "name": {
+        "local": "La Condamine",
+        "en": "La Condamine",
+        "slug": "la-condamine-mc03"
+      },
+      "code": {
+        "id": "MC03",
+        "iso": null
+      },
+      "ward": [
+        {
+          "id": "MC03W01",
+          "name": {
+            "local": "La Condamine",
+            "en": "La Condamine",
+            "slug": "la-condamine-mc03w01"
+          },
+          "code": {
+            "id": "MC03W01",
+            "iso": null
+          }
+        },
+        {
+          "id": "MC03W02",
+          "name": {
+            "local": "Moneghetti",
+            "en": "Moneghetti",
+            "slug": "moneghetti-mc03w02"
+          },
+          "code": {
+            "id": "MC03W02",
+            "iso": null
+          }
+        },
+        {
+          "id": "MC03W03",
+          "name": {
+            "local": "Jardin Exotique",
+            "en": "Jardin Exotique",
+            "slug": "jardin-exotique-mc03w03"
+          },
+          "code": {
+            "id": "MC03W03",
+            "iso": null
+          }
+        },
+        {
+          "id": "MC03W04",
+          "name": {
+            "local": "La Colle",
+            "en": "La Colle",
+            "slug": "la-colle-mc03w04"
+          },
+          "code": {
+            "id": "MC03W04",
+            "iso": null
+          }
+        },
+        {
+          "id": "MC03W05",
+          "name": {
+            "local": "Les Révoires",
+            "en": "Les Revoires",
+            "slug": "les-revoires-mc03w05"
+          },
+          "code": {
+            "id": "MC03W05",
+            "iso": null
+          }
+        }
+      ]
+    }
+  ]
+}

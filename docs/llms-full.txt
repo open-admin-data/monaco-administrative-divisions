@@ -1,0 +1,17 @@
+# Monaco Administrative Divisions — Full Reference
+
+> Last updated: 2026-07-25. License: CC-BY-4.0.
+
+## Per-Section Data Files
+
+- [Monaco-Ville](https://github.com/open-admin-data/monaco-administrative-divisions/blob/main/docs/llms-full/monaco-ville-mc01.txt) — 2 wards
+- [Monte Carlo](https://github.com/open-admin-data/monaco-administrative-divisions/blob/main/docs/llms-full/monte-carlo-mc02.txt) — 3 wards
+- [La Condamine](https://github.com/open-admin-data/monaco-administrative-divisions/blob/main/docs/llms-full/la-condamine-mc03.txt) — 5 wards
+
+## Summary
+
+| Section | Wards | 
+|---|---|
+| Monaco-Ville | 2 | 
+| Monte Carlo | 3 | 
+| La Condamine | 5 | 

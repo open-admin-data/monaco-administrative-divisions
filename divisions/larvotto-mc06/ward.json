@@ -1,0 +1,31 @@
+{
+  "id": "MC06",
+  "level": 1,
+  "level_name": {
+    "local": "Quartier",
+    "en": "Ward"
+  },
+  "name": {
+    "local": "Larvotto",
+    "en": "Larvotto",
+    "slug": "larvotto-mc06"
+  },
+  "code": {
+    "id": "MC06",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "43.744",
+    "lon": "7.436"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/mc/wards/larvotto-mc06/",
+    "api": "https://openadmindata.org/api/mc/"
+  }
+}

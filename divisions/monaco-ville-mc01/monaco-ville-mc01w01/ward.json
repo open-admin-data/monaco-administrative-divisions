@@ -1,0 +1,45 @@
+{
+  "id": "MC01W01",
+  "level": 2,
+  "level_name": {
+    "local": "Quartier",
+    "en": "Ward"
+  },
+  "name": {
+    "local": "Monaco-Ville",
+    "en": "Monaco-Ville",
+    "slug": "monaco-ville-mc01w01"
+  },
+  "code": {
+    "id": "MC01W01",
+    "iso": null
+  },
+  "parent": {
+    "id": "MC01",
+    "level": 1,
+    "name": {
+      "local": "Monaco-Ville",
+      "en": "Monaco-Ville",
+      "slug": "monaco-ville-mc01"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MC01",
+      "level": 1,
+      "name": {
+        "local": "Monaco-Ville",
+        "en": "Monaco-Ville",
+        "slug": "monaco-ville-mc01"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "43.731",
+    "lon": "7.42"
+  },
+  "metadata": {},
+  "source": {}
+}

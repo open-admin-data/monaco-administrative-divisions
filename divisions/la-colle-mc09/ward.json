@@ -1,0 +1,31 @@
+{
+  "id": "MC09",
+  "level": 1,
+  "level_name": {
+    "local": "Quartier",
+    "en": "Ward"
+  },
+  "name": {
+    "local": "La Colle",
+    "en": "La Colle",
+    "slug": "la-colle-mc09"
+  },
+  "code": {
+    "id": "MC09",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "43.733",
+    "lon": "7.415"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/mc/wards/la-colle-mc09/",
+    "api": "https://openadmindata.org/api/mc/"
+  }
+}

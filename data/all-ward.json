@@ -1,0 +1,452 @@
+[
+  {
+    "id": "MC01W01",
+    "level": 2,
+    "level_name": {
+      "local": "Quartier",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Monaco-Ville",
+      "en": "Monaco-Ville",
+      "slug": "monaco-ville-mc01w01"
+    },
+    "code": {
+      "id": "MC01W01",
+      "iso": null
+    },
+    "parent": {
+      "id": "MC01",
+      "level": 1,
+      "name": {
+        "local": "Monaco-Ville",
+        "en": "Monaco-Ville",
+        "slug": "monaco-ville-mc01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MC01",
+        "level": 1,
+        "name": {
+          "local": "Monaco-Ville",
+          "en": "Monaco-Ville",
+          "slug": "monaco-ville-mc01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "43.731",
+      "lon": "7.42"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MC01W02",
+    "level": 2,
+    "level_name": {
+      "local": "Quartier",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Fontvieille",
+      "en": "Fontvieille",
+      "slug": "fontvieille-mc01w02"
+    },
+    "code": {
+      "id": "MC01W02",
+      "iso": null
+    },
+    "parent": {
+      "id": "MC01",
+      "level": 1,
+      "name": {
+        "local": "Monaco-Ville",
+        "en": "Monaco-Ville",
+        "slug": "monaco-ville-mc01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MC01",
+        "level": 1,
+        "name": {
+          "local": "Monaco-Ville",
+          "en": "Monaco-Ville",
+          "slug": "monaco-ville-mc01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "43.727",
+      "lon": "7.413"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MC02W01",
+    "level": 2,
+    "level_name": {
+      "local": "Quartier",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Monte-Carlo",
+      "en": "Monte Carlo",
+      "slug": "monte-carlo-mc02w01"
+    },
+    "code": {
+      "id": "MC02W01",
+      "iso": null
+    },
+    "parent": {
+      "id": "MC02",
+      "level": 1,
+      "name": {
+        "local": "Monte-Carlo",
+        "en": "Monte Carlo",
+        "slug": "monte-carlo-mc02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MC02",
+        "level": 1,
+        "name": {
+          "local": "Monte-Carlo",
+          "en": "Monte Carlo",
+          "slug": "monte-carlo-mc02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "43.74",
+      "lon": "7.427"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MC02W02",
+    "level": 2,
+    "level_name": {
+      "local": "Quartier",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Larvotto",
+      "en": "Larvotto",
+      "slug": "larvotto-mc02w02"
+    },
+    "code": {
+      "id": "MC02W02",
+      "iso": null
+    },
+    "parent": {
+      "id": "MC02",
+      "level": 1,
+      "name": {
+        "local": "Monte-Carlo",
+        "en": "Monte Carlo",
+        "slug": "monte-carlo-mc02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MC02",
+        "level": 1,
+        "name": {
+          "local": "Monte-Carlo",
+          "en": "Monte Carlo",
+          "slug": "monte-carlo-mc02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "43.744",
+      "lon": "7.436"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MC02W03",
+    "level": 2,
+    "level_name": {
+      "local": "Quartier",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "La Rousse/Saint Roman",
+      "en": "La Rousse",
+      "slug": "la-rousse-mc02w03"
+    },
+    "code": {
+      "id": "MC02W03",
+      "iso": null
+    },
+    "parent": {
+      "id": "MC02",
+      "level": 1,
+      "name": {
+        "local": "Monte-Carlo",
+        "en": "Monte Carlo",
+        "slug": "monte-carlo-mc02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MC02",
+        "level": 1,
+        "name": {
+          "local": "Monte-Carlo",
+          "en": "Monte Carlo",
+          "slug": "monte-carlo-mc02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "43.745",
+      "lon": "7.433"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MC03W01",
+    "level": 2,
+    "level_name": {
+      "local": "Quartier",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "La Condamine",
+      "en": "La Condamine",
+      "slug": "la-condamine-mc03w01"
+    },
+    "code": {
+      "id": "MC03W01",
+      "iso": null
+    },
+    "parent": {
+      "id": "MC03",
+      "level": 1,
+      "name": {
+        "local": "La Condamine",
+        "en": "La Condamine",
+        "slug": "la-condamine-mc03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MC03",
+        "level": 1,
+        "name": {
+          "local": "La Condamine",
+          "en": "La Condamine",
+          "slug": "la-condamine-mc03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "43.735",
+      "lon": "7.42"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MC03W02",
+    "level": 2,
+    "level_name": {
+      "local": "Quartier",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Moneghetti",
+      "en": "Moneghetti",
+      "slug": "moneghetti-mc03w02"
+    },
+    "code": {
+      "id": "MC03W02",
+      "iso": null
+    },
+    "parent": {
+      "id": "MC03",
+      "level": 1,
+      "name": {
+        "local": "La Condamine",
+        "en": "La Condamine",
+        "slug": "la-condamine-mc03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MC03",
+        "level": 1,
+        "name": {
+          "local": "La Condamine",
+          "en": "La Condamine",
+          "slug": "la-condamine-mc03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "43.737",
+      "lon": "7.416"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MC03W03",
+    "level": 2,
+    "level_name": {
+      "local": "Quartier",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Jardin Exotique",
+      "en": "Jardin Exotique",
+      "slug": "jardin-exotique-mc03w03"
+    },
+    "code": {
+      "id": "MC03W03",
+      "iso": null
+    },
+    "parent": {
+      "id": "MC03",
+      "level": 1,
+      "name": {
+        "local": "La Condamine",
+        "en": "La Condamine",
+        "slug": "la-condamine-mc03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MC03",
+        "level": 1,
+        "name": {
+          "local": "La Condamine",
+          "en": "La Condamine",
+          "slug": "la-condamine-mc03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "43.732",
+      "lon": "7.412"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MC03W04",
+    "level": 2,
+    "level_name": {
+      "local": "Quartier",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "La Colle",
+      "en": "La Colle",
+      "slug": "la-colle-mc03w04"
+    },
+    "code": {
+      "id": "MC03W04",
+      "iso": null
+    },
+    "parent": {
+      "id": "MC03",
+      "level": 1,
+      "name": {
+        "local": "La Condamine",
+        "en": "La Condamine",
+        "slug": "la-condamine-mc03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MC03",
+        "level": 1,
+        "name": {
+          "local": "La Condamine",
+          "en": "La Condamine",
+          "slug": "la-condamine-mc03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "43.733",
+      "lon": "7.415"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MC03W05",
+    "level": 2,
+    "level_name": {
+      "local": "Quartier",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Les Révoires",
+      "en": "Les Revoires",
+      "slug": "les-revoires-mc03w05"
+    },
+    "code": {
+      "id": "MC03W05",
+      "iso": null
+    },
+    "parent": {
+      "id": "MC03",
+      "level": 1,
+      "name": {
+        "local": "La Condamine",
+        "en": "La Condamine",
+        "slug": "la-condamine-mc03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MC03",
+        "level": 1,
+        "name": {
+          "local": "La Condamine",
+          "en": "La Condamine",
+          "slug": "la-condamine-mc03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "43.731",
+      "lon": "7.414"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

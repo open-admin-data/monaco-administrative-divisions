@@ -1,0 +1,45 @@
+{
+  "id": "MC03W03",
+  "level": 2,
+  "level_name": {
+    "local": "Quartier",
+    "en": "Ward"
+  },
+  "name": {
+    "local": "Jardin Exotique",
+    "en": "Jardin Exotique",
+    "slug": "jardin-exotique-mc03w03"
+  },
+  "code": {
+    "id": "MC03W03",
+    "iso": null
+  },
+  "parent": {
+    "id": "MC03",
+    "level": 1,
+    "name": {
+      "local": "La Condamine",
+      "en": "La Condamine",
+      "slug": "la-condamine-mc03"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MC03",
+      "level": 1,
+      "name": {
+        "local": "La Condamine",
+        "en": "La Condamine",
+        "slug": "la-condamine-mc03"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "43.732",
+    "lon": "7.412"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,31 @@
+{
+  "id": "MC07",
+  "level": 1,
+  "level_name": {
+    "local": "Quartier",
+    "en": "Ward"
+  },
+  "name": {
+    "local": "La Rousse/Saint Roman",
+    "en": "La Rousse",
+    "slug": "la-rousse-mc07"
+  },
+  "code": {
+    "id": "MC07",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "43.745",
+    "lon": "7.433"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/mc/wards/la-rousse-mc07/",
+    "api": "https://openadmindata.org/api/mc/"
+  }
+}

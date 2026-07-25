@@ -1,0 +1,45 @@
+{
+  "id": "MC02W03",
+  "level": 2,
+  "level_name": {
+    "local": "Quartier",
+    "en": "Ward"
+  },
+  "name": {
+    "local": "La Rousse/Saint Roman",
+    "en": "La Rousse",
+    "slug": "la-rousse-mc02w03"
+  },
+  "code": {
+    "id": "MC02W03",
+    "iso": null
+  },
+  "parent": {
+    "id": "MC02",
+    "level": 1,
+    "name": {
+      "local": "Monte-Carlo",
+      "en": "Monte Carlo",
+      "slug": "monte-carlo-mc02"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MC02",
+      "level": 1,
+      "name": {
+        "local": "Monte-Carlo",
+        "en": "Monte Carlo",
+        "slug": "monte-carlo-mc02"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "43.745",
+    "lon": "7.433"
+  },
+  "metadata": {},
+  "source": {}
+}

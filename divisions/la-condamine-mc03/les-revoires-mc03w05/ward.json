@@ -1,0 +1,45 @@
+{
+  "id": "MC03W05",
+  "level": 2,
+  "level_name": {
+    "local": "Quartier",
+    "en": "Ward"
+  },
+  "name": {
+    "local": "Les Révoires",
+    "en": "Les Revoires",
+    "slug": "les-revoires-mc03w05"
+  },
+  "code": {
+    "id": "MC03W05",
+    "iso": null
+  },
+  "parent": {
+    "id": "MC03",
+    "level": 1,
+    "name": {
+      "local": "La Condamine",
+      "en": "La Condamine",
+      "slug": "la-condamine-mc03"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MC03",
+      "level": 1,
+      "name": {
+        "local": "La Condamine",
+        "en": "La Condamine",
+        "slug": "la-condamine-mc03"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "43.731",
+    "lon": "7.414"
+  },
+  "metadata": {},
+  "source": {}
+}

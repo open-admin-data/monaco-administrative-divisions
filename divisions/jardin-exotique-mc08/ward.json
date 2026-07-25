@@ -1,0 +1,31 @@
+{
+  "id": "MC08",
+  "level": 1,
+  "level_name": {
+    "local": "Quartier",
+    "en": "Ward"
+  },
+  "name": {
+    "local": "Jardin Exotique",
+    "en": "Jardin Exotique",
+    "slug": "jardin-exotique-mc08"
+  },
+  "code": {
+    "id": "MC08",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "43.732",
+    "lon": "7.412"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/mc/wards/jardin-exotique-mc08/",
+    "api": "https://openadmindata.org/api/mc/"
+  }
+}

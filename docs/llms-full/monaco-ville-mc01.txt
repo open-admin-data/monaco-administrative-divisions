@@ -1,0 +1,19 @@
+# Monaco-Ville — Monaco Administrative Divisions
+
+> 2 wards
+> Code: MC01
+> Coordinates: 43.729, 7.417
+> Last updated: 2026-07-25. License: CC-BY-4.0.
+
+## Wards
+
+### Fontvieille
+
+Code: MC01W02, Coordinates: 43.727, 7.413
+
+
+### Monaco-Ville
+
+Code: MC01W01, Coordinates: 43.731, 7.42
+
+

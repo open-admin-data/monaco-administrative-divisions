@@ -1,0 +1,5 @@
+# Data from Open Admin Data (https://openadmindata.org/mc/) — CC-BY-4.0. Please cite: https://github.com/open-admin-data/monaco-administrative-divisions
+id,level,level_name.local,level_name.en,name.local,name.en,name.slug,code.id,code.iso,parent.id,parent.name.local,parent.name.en,children_count.section,children_count.ward,zip_codes,geo.lat,geo.lon,source_url
+MC01,1,Section,Section,Monaco-Ville,Monaco-Ville,monaco-ville-mc01,MC01,,,,,,2,,43.729,7.417,https://openadmindata.org/mc/sections/monaco-ville-mc01/
+MC02,1,Section,Section,Monte-Carlo,Monte Carlo,monte-carlo-mc02,MC02,,,,,,3,,43.743,7.432,https://openadmindata.org/mc/sections/monte-carlo-mc02/
+MC03,1,Section,Section,La Condamine,La Condamine,la-condamine-mc03,MC03,,,,,,5,,43.734,7.416,https://openadmindata.org/mc/sections/la-condamine-mc03/

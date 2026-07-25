@@ -1,0 +1,31 @@
+{
+  "id": "MC10",
+  "level": 1,
+  "level_name": {
+    "local": "Quartier",
+    "en": "Ward"
+  },
+  "name": {
+    "local": "Les Révoires",
+    "en": "Les Revoires",
+    "slug": "les-revoires-mc10"
+  },
+  "code": {
+    "id": "MC10",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "43.731",
+    "lon": "7.414"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/mc/wards/les-revoires-mc10/",
+    "api": "https://openadmindata.org/api/mc/"
+  }
+}

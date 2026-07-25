@@ -1,0 +1,31 @@
+{
+  "id": "MC05",
+  "level": 1,
+  "level_name": {
+    "local": "Quartier",
+    "en": "Ward"
+  },
+  "name": {
+    "local": "Moneghetti",
+    "en": "Moneghetti",
+    "slug": "moneghetti-mc05"
+  },
+  "code": {
+    "id": "MC05",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "43.737",
+    "lon": "7.416"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/mc/wards/moneghetti-mc05/",
+    "api": "https://openadmindata.org/api/mc/"
+  }
+}

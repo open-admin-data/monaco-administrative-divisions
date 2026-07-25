@@ -1,0 +1,45 @@
+{
+  "id": "MC03W01",
+  "level": 2,
+  "level_name": {
+    "local": "Quartier",
+    "en": "Ward"
+  },
+  "name": {
+    "local": "La Condamine",
+    "en": "La Condamine",
+    "slug": "la-condamine-mc03w01"
+  },
+  "code": {
+    "id": "MC03W01",
+    "iso": null
+  },
+  "parent": {
+    "id": "MC03",
+    "level": 1,
+    "name": {
+      "local": "La Condamine",
+      "en": "La Condamine",
+      "slug": "la-condamine-mc03"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MC03",
+      "level": 1,
+      "name": {
+        "local": "La Condamine",
+        "en": "La Condamine",
+        "slug": "la-condamine-mc03"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "43.735",
+    "lon": "7.42"
+  },
+  "metadata": {},
+  "source": {}
+}

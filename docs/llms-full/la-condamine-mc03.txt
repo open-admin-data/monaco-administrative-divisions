@@ -1,0 +1,34 @@
+# La Condamine — Monaco Administrative Divisions
+
+> 5 wards
+> Code: MC03
+> Coordinates: 43.734, 7.416
+> Last updated: 2026-07-25. License: CC-BY-4.0.
+
+## Wards
+
+### Jardin Exotique
+
+Code: MC03W03, Coordinates: 43.732, 7.412
+
+
+### La Colle
+
+Code: MC03W04, Coordinates: 43.733, 7.415
+
+
+### La Condamine
+
+Code: MC03W01, Coordinates: 43.735, 7.42
+
+
+### Les Révoires (Les Revoires)
+
+Code: MC03W05, Coordinates: 43.731, 7.414
+
+
+### Moneghetti
+
+Code: MC03W02, Coordinates: 43.737, 7.416
+
+

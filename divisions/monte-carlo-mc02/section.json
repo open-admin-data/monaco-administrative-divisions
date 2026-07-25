@@ -1,0 +1,33 @@
+{
+  "id": "MC02",
+  "level": 1,
+  "level_name": {
+    "local": "Section",
+    "en": "Section"
+  },
+  "name": {
+    "local": "Monte-Carlo",
+    "en": "Monte Carlo",
+    "slug": "monte-carlo-mc02"
+  },
+  "code": {
+    "id": "MC02",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "ward": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "43.743",
+    "lon": "7.432"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/mc/sections/monte-carlo-mc02/",
+    "api": "https://openadmindata.org/api/mc/"
+  }
+}

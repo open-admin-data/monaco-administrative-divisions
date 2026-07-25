@@ -1,0 +1,33 @@
+{
+  "id": "MC01",
+  "level": 1,
+  "level_name": {
+    "local": "Section",
+    "en": "Section"
+  },
+  "name": {
+    "local": "Monaco-Ville",
+    "en": "Monaco-Ville",
+    "slug": "monaco-ville-mc01"
+  },
+  "code": {
+    "id": "MC01",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "ward": 2
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "43.729",
+    "lon": "7.417"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/mc/sections/monaco-ville-mc01/",
+    "api": "https://openadmindata.org/api/mc/"
+  }
+}

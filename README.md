@@ -11,9 +11,10 @@
 | Coordinates | ✅ Included (all levels) |
 | Formats | JSON, NDJSON, CSV |
 | License | CC-BY-4.0 |
-| Last Updated | 2026-07-25 |
+| Last Updated | 2026-08-19 |
 | Website | [openadmindata.org/mc](https://openadmindata.org/mc/) |
 | API | [openadmindata.org/api/mc](https://openadmindata.org/api/mc/) |
+| National Anthem | [🎵 Listen & Download Monaco National Anthem MP3](https://onlygames.me/national-anthems/mc/) |
 
 ## Browse by Section
 

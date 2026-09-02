@@ -3,7 +3,7 @@
 > 2 wards
 > Code: MC01
 > Coordinates: 43.729, 7.417
-> Last updated: 2026-08-20. License: CC-BY-4.0.
+> Last updated: 2026-09-02. License: CC-BY-4.0.
 
 ## Wards
 
